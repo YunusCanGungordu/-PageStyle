@@ -1,0 +1,95 @@
+div#genelyapı{
+	width: 898px;
+	height: 650px;
+	border: 1px solid black;
+	margin: auto;
+}
+div.baslik{
+	width: 750px;
+	height: 90px;
+	border: 1px solid black;
+	margin: auto;
+	text-align: center;
+	margin-top: 25px;
+}
+div.article{
+	width: 750px;
+	height: 450px;
+	border: 1px solid black;
+	margin: auto;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+p.text{
+	text-indent: 15px;
+	text-align: center;
+}
+h3{
+	text-indent: 15px;
+}
+p.text2{
+	text-indent: 15px;
+	text-align: center;
+}
+h3.h3{
+	text-align: center;
+}
+p.finaltext{
+	text-align: center;
+}
+div#solyapı{
+	width: 200px;
+	height: 650px;
+	border: 1px solid black;
+	float: left;
+}
+div#sagyapı{
+	width: 200px;
+	height: 650px;
+	float: right;
+	border: 1px solid black
+}
+div.c1{
+	width: 125px;
+	height: 50px;
+	border: 1px solid black;
+	margin: auto;
+	margin-top: 50px;
+	text-align: center;
+}
+div.c2{
+	width: 125px;
+	height: 50px;
+	border: 1px solid black;
+	margin: auto;
+	margin-top: 50px;
+	text-align: center;
+}
+div.c3{
+	width: 125px;
+	height: 50px;
+	border: 1px solid black;
+	margin: auto;
+	margin-top: 60px;
+	text-align: center;
+}
+div.c4{
+	width: 125px;
+	height: 50px;
+	border: 1px solid black;
+	margin: auto;
+	margin-top: 80px;
+	text-align: center;
+}
+div.c5{
+	width: 125px;
+	height: 50px;
+	border: 1px solid black;
+	margin: auto;
+	margin-top: 80px;
+	text-align: center;
+}
+h3#h31{
+	text-align: center;
+	text-decoration: underline;
+}
