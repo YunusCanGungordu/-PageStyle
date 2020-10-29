@@ -1,95 +1,38 @@
-div#genelyapı{
-	width: 898px;
-	height: 650px;
-	border: 1px solid black;
+div#main{
 	margin: auto;
+	border: 2px solid black;
+	width: 950px;
+	height: 750px;
 }
-div.baslik{
-	width: 750px;
-	height: 90px;
-	border: 1px solid black;
+.header{
 	margin: auto;
-	text-align: center;
-	margin-top: 25px;
-}
-div.article{
-	width: 750px;
-	height: 450px;
+	width: 800px;
+	height: 100px;
 	border: 1px solid black;
-	margin: auto;
-	margin-top: 25px;
-	margin-bottom: 25px;
+	margin-top: 50px;
 }
-p.text{
-	text-indent: 15px;
-	text-align: center;
-}
-h3{
-	text-indent: 15px;
-}
-p.text2{
-	text-indent: 15px;
-	text-align: center;
-}
-h3.h3{
-	text-align: center;
-}
-p.finaltext{
-	text-align: center;
-}
-div#solyapı{
-	width: 200px;
-	height: 650px;
+.article{
+	width: 600px;
+	height: 300px;
+	margin-top: 50px;
+	margin-left: 75px;
 	border: 1px solid black;
-	float: left;
 }
-div#sagyapı{
-	width: 200px;
-	height: 650px;
+.aside{
+	width: 150px;
+	height: 300px;
+	border: 1px solid black;
 	float: right;
-	border: 1px solid black
+	margin-right: 75px;
+	position: relative;
+	bottom: 300px;
 }
-div.c1{
-	width: 125px;
-	height: 50px;
-	border: 1px solid black;
+.footer{
+	clear: both;
 	margin: auto;
-	margin-top: 50px;
-	text-align: center;
-}
-div.c2{
-	width: 125px;
-	height: 50px;
+	width: 800px;
+	height: 100px;
 	border: 1px solid black;
-	margin: auto;
-	margin-top: 50px;
-	text-align: center;
-}
-div.c3{
-	width: 125px;
-	height: 50px;
-	border: 1px solid black;
-	margin: auto;
-	margin-top: 60px;
-	text-align: center;
-}
-div.c4{
-	width: 125px;
-	height: 50px;
-	border: 1px solid black;
-	margin: auto;
-	margin-top: 80px;
-	text-align: center;
-}
-div.c5{
-	width: 125px;
-	height: 50px;
-	border: 1px solid black;
-	margin: auto;
-	margin-top: 80px;
-	text-align: center;
-}
-h3#h31{
-	text-align: center;
-	text-decoration: underline;
-}
+	position: relative;
+	bottom: 225px;
+}	
